@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.15
 
 LABEL version="1.0.0"
 LABEL repository="http://github.com/vrutkovs/action-s2i"
